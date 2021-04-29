@@ -1,0 +1,10 @@
+name = "react-rust-wasm-worker"
+type = "webpack"
+account_id = "9df07446af3285619e9d93b66e092c5f"
+workers_dev = true
+route = ""
+zone_id = "7d46edb0ae660bbd7eabcfba4c365998"
+
+[site]
+bucket = "./react-client/build"
+entry-point = "workers-site"
